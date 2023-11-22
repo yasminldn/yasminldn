@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasminldn
+- 👋 Hi, I’m Yasmin
 - 👀 I’m interested in DevOps  
 - 🌱 I’m currently learning AWS cloud fundamentals and python
 - 💻 I'm also taking part on the #100DaysofCode challenge on python: please see my repository
